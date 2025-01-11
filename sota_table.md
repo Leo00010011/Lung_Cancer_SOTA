@@ -11,7 +11,7 @@ Papers
 
 2) [Recent advancements in deep learning based lung cancer detection: A systematic review | Semantic Scholar](https://www.semanticscholar.org/paper/Recent-advancements-in-deep-learning-based-lung-A-Dodia-Annappa/8ce59fc3278341136e8f2eddbc800635cc0bf686)
 
-3) 
+3) [Deep Machine Learning for Medical Diagnosis, Application to Lung Cancer Detection: A Review | Semantic Scholar](https://www.semanticscholar.org/paper/Deep-Machine-Learning-for-Medical-Diagnosis%2C-to-A-Gayap-Akhloufi/285a54f074b0c5af1ba14e972cfd59a6c7ac74f4)
 
 Dataset:
 
