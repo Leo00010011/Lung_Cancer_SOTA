@@ -1,15 +1,17 @@
-|     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- |
+| paper | Example-Net | U-Net | Accuracy |
+| ----- | ----------- | ----- | -------- |
+| 1     | x           | -     | 99.999   |
 
-
+** Put a link to the paper in the enumerated list
+** Use the number to reffer to the paper
 
 Papers
 
-1) [Recent advancements in deep learning based lung cancer detection: A systematic review | Semantic Scholar](https://www.semanticscholar.org/paper/Recent-advancements-in-deep-learning-based-lung-A-Dodia-Annappa/8ce59fc3278341136e8f2eddbc800635cc0bf686)
+1) [Example](https://www.example.com)
 
-2) 
+2) [Recent advancements in deep learning based lung cancer detection: A systematic review | Semantic Scholar](https://www.semanticscholar.org/paper/Recent-advancements-in-deep-learning-based-lung-A-Dodia-Annappa/8ce59fc3278341136e8f2eddbc800635cc0bf686)
 
-
+3) 
 
 Dataset:
 
