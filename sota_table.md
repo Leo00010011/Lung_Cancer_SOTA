@@ -7,6 +7,7 @@
 | 8     | DBSCAN                      |         | 92.93    |           |
 | 9     | MobileNetV3Small & ResNet50 |         | 99.38    |           |
 | 11    | ResNet50 + SVM RBF          |         | 88.41    | LIDC-IDRI |
+| 12    | YOLO                        |         | 95.17    | RIDER     |
 
 ** Put a link to the paper in the enumerated list
 ** Use the number to reffer to the paper
@@ -35,6 +36,8 @@ Papers
 10) [Improved Consistency of Lung Nodule Categorization in CT Scans with Heterogeneous Slice Thickness by Deep Learning-Based 3D Super-Resolution](https://pubmed.ncbi.nlm.nih.gov/39795578/)
 
 11) [Lung Nodule Classification via Deep Transfer Learning in CT Lung Images](https://ieeexplore.ieee.org/document/8417245)
+
+12) [Deep Learning Techniques to Diagnose Lung Cancer](https://www.mdpi.com/2072-6694/14/22/5569)
 
 Dataset:
 
