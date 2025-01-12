@@ -9,6 +9,7 @@
 | 11    | ResNet50 + SVM RBF          |         | 88.41    | LIDC-IDRI |
 | 12    | YOLO                        |         | 95.17    | RIDER     |
 | 13    | 2-Layer CNN                 |         | 84.15    | LIDC-IDRI |
+| 14    | Xception                    |         | 87.77    |           |
 
 ** Put a link to the paper in the enumerated list
 ** Use the number to reffer to the paper
@@ -41,6 +42,8 @@ Papers
 12) [Deep Learning Techniques to Diagnose Lung Cancer](https://www.mdpi.com/2072-6694/14/22/5569)
 
 13) [ Using Deep Learning for Classification of Lung Nodules on Computed Tomography Images](https://www.semanticscholar.org/paper/Using-Deep-Learning-for-Classification-of-Lung-on-Song-Zhao/ee93681fd9b3b92b3136a3a73289199f87957560?year%5B0%5D=2023&year%5B1%5D=2024&sort=total-citations)
+
+14) [Lung Nodule Diagnosis on 3D Computed Tomography Images Using Deep Convolutional Neural Networks](https://www.sciencedirect.com/science/article/pii/S2351978920304467?via%3Dihub)
 
 Dataset:
 
