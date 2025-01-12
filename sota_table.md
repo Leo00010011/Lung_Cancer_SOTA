@@ -8,6 +8,7 @@
 | 9     | MobileNetV3Small & ResNet50 |         | 99.38    |           |
 | 11    | ResNet50 + SVM RBF          |         | 88.41    | LIDC-IDRI |
 | 12    | YOLO                        |         | 95.17    | RIDER     |
+| 13    | 2-Layer CNN                 |         | 84.15    | LIDC-IDRI |
 
 ** Put a link to the paper in the enumerated list
 ** Use the number to reffer to the paper
@@ -38,6 +39,8 @@ Papers
 11) [Lung Nodule Classification via Deep Transfer Learning in CT Lung Images](https://ieeexplore.ieee.org/document/8417245)
 
 12) [Deep Learning Techniques to Diagnose Lung Cancer](https://www.mdpi.com/2072-6694/14/22/5569)
+
+13) [ Using Deep Learning for Classification of Lung Nodules on Computed Tomography Images](https://www.semanticscholar.org/paper/Using-Deep-Learning-for-Classification-of-Lung-on-Song-Zhao/ee93681fd9b3b92b3136a3a73289199f87957560?year%5B0%5D=2023&year%5B1%5D=2024&sort=total-citations)
 
 Dataset:
 
