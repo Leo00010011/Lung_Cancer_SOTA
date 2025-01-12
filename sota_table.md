@@ -9,7 +9,7 @@
 | 11    | ResNet50 + SVM RBF          |         | 88.41    | LIDC-IDRI |
 | 12    | YOLO                        |         | 95.17    | RIDER     |
 | 13    | 2-Layer CNN                 |         | 84.15    | LIDC-IDRI |
-| 14    | Xception                    |         | 87.77    |           |
+| 14    | Xception                    |         | 87.03    | LIDC-IDRI |
 
 ** Put a link to the paper in the enumerated list
 ** Use the number to reffer to the paper
