@@ -3,6 +3,9 @@
 | 1     | x           | -     | 99.999   |
 | 4     | based on CNN| -     | 97.5     |
 | 5     |             |AlexNet| 94       |
+| 7     |EfficientNetB1|      | 99.10    |
+| 8     |DBSCAN        |      | 92.93    |
+| 9     |MobileNetV3Small & ResNet50 |      | 99.38    |
 
 ** Put a link to the paper in the enumerated list
 ** Use the number to reffer to the paper
@@ -20,6 +23,15 @@ Papers
 5) [Advanced lung tumor diagnosis using a 3D deep neural network based CAD system ](https://www.sciencedirect.com/science/article/pii/S1746809423010832?casa_token=rzfMVRsjjTYAAAAA:u5fWkBry-4P0Rz62shrhJTdHqhT2yyCMYswayTLMHw1KcmUUioJCmuHR4p8g0s7uu2fX42ue)
 
 6) [Artificial intelligence in lung cancer diagnosis and prognosis: Current application and future perspective ](https://www.sciencedirect.com/science/article/pii/S1044579X23000068?casa_token=McmwTtaIlZMAAAAA:725MxlVzvpIEUuKz1Bm-tZHL4Ngaa-7HMi1vh3-NLCyG_22nGASh3HhhcmVNRfcxYvr8cLcK)
+
+7) [Lung-EffNet: Lung cancer classification using EfficientNet from CT-scan images](https://www.sciencedirect.com/science/article/pii/S0952197623010862)
+
+8) [DFCV: a framework for evaluation deep learning in early detection and classification of lung cancer
+](https://dl.acm.org/doi/abs/10.1007/s11042-023-15238-8)
+
+9) [Toward Robust Lung Cancer Diagnosis: Integrating Multiple CT Datasets, Curriculum Learning, and Explainable AI](https://pubmed.ncbi.nlm.nih.gov/39795530/)
+
+10) [Improved Consistency of Lung Nodule Categorization in CT Scans with Heterogeneous Slice Thickness by Deep Learning-Based 3D Super-Resolution](https://pubmed.ncbi.nlm.nih.gov/39795578/)
 
 Dataset:
 
